@@ -10,7 +10,7 @@ It is a Demo App to download images and filter them using Operations
 5) Implemented TableView to show the images
 
 <p align="center">
-<img src="https://i.imgur.com/2sY2jZK.png"> <img src="https://i.imgur.com/NvTFmgR.png"> <img src="https://i.imgur.com/cn2YMOj.png">
+<img src="https://i.imgur.com/kbCt21X.png" width="180" height="320"> <img src="https://i.imgur.com/16FBMZ5.png" width="180" height="320"> <img src="https://i.imgur.com/eUoNJ6M.png" width="180" height="320">
 </p>
 
 ## Api Reference
