@@ -49,7 +49,6 @@ opt_in_rules:
 - file_length
 - file_name
 - file_name_no_space
-- file_types_order
 - first_where
 - flatmap_over_map_reduce
 - for_where
